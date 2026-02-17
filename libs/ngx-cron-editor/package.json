@@ -1,7 +1,7 @@
 {
   "description": "A cron expression generator for Angular 15+",
   "name": "@nfedorov/ngx-cron-editor",
-  "version": "0.10.1",
+  "version": "0.10.2",
   "private": false,
   "publishConfig": {
     "access": "public"
